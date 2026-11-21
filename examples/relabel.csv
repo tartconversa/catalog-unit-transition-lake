@@ -1,0 +1,4 @@
+arrival,certificate,lot,action,label,scope_units
+5,A03,L01-A,hold,XB-10,8
+7,A05,L01-A,confirmed,XB-10,6
+7,A06,L01-A,hold,XB-10,2

@@ -1,0 +1,6 @@
+arrival,channel,line,sku,unit,requires_label,rank,hold_units
+2,wholesale,V20,PART-71,CASE-A,XC-1,1,4
+3,retail,V21,PART-71,BOX-10,XB-10,2,6
+4,retail,V31,PART-71,BOX-12,XB-12,2,6
+5,wholesale,V30,PART-71,CASE-A,XC-2,1,4
+6,local,V32,PART-71,BOX-06,XB-06,3,3

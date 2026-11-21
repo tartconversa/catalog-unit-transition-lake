@@ -1,0 +1,7 @@
+arrival,claim,package,child,factor,lot,from,until,scope
+1,S18,CASE-A,BOX-10,4,L01,2026-06-01,2026-10-01,unpack
+1,S18,CASE-A,BOX-06,2,L01,2026-06-01,2026-10-01,unpack
+1,S19,CASE-A,BOX-12,6,L02,2026-10-01,,unpack
+2,S21,BOX-10,UNIT-A,10,L01,2026-06-01,,unpack
+2,S22,BOX-06,UNIT-B,6,L01,2026-06-01,,unpack
+5,S18,CASE-A,BOX-10,4,L01,2026-06-01,2026-10-01,unresolved

@@ -1,0 +1,5 @@
+arrival,channel,line,publication,state,allocation
+3,wholesale,V20,P12,claimed,L01:4
+4,retail,V21,P13,claimed,L01-A:6
+5,retail,V31,P14,rejected,
+6,wholesale,V20,P12,released,L01:4
